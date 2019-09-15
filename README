@@ -1,0 +1,14 @@
+Threshold Values for the experiments are recorded as :
+
+DA1 - 50.14
+DA2 - 0.235
+SA1 - 0.229
+SA2 - 0.03
+SA3 - 0.0012 
+
+
+#For running the codes for one given scenario (say sa1), go to the directory (sa1) and enter the command:-
+
+$python train_sa1.py
+
+The output will be three graphs corresponding to the orignal sensor readings, scree-plot and departure scores respectively. The program outputs on the screen the obtained threshold for the case
